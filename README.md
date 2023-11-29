@@ -17,7 +17,7 @@ You can cite Obfuscator-LLVM using the following Bibtex entry:
 }
 ```
 
-
+```
 # 安装脚本
 # ubuntu 16+
  git clone -b llvm-4.0 https://github.com/obfuscator-llvm/obfuscator.git
@@ -50,3 +50,4 @@ ls
 
 
  echo "需要手动修改 当前新拷贝出来的三个目录下的setup.xml,修改的内容见README"
+```
